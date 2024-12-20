@@ -2,7 +2,7 @@
 All experiments were performed on a Bio Rad Opus 96 ,,,
 BioRad qPCR machine number ,795BR04380,,
 ,,,
-Thermocycling conditions ,Temperature ,duration,number of cycles
+Thermocycling conditions (qPCR and ddPCR) ,Temperature ,duration,number of cycles
 Denature,95 Celcius,5 minutes ,1
 Denature,95 Celcius,10 seconds,39-49
 Anneal/Extend ,58 Celcius ,30 seconds ,39-49

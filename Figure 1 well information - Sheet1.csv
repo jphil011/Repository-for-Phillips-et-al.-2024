@@ -1,0 +1,19 @@
+Wells,Condition
+A1-5,200000 CLas amplicon molecules
+A6-10,20000 CLas amplicon molecules
+"A11,12 B1-3",2000 CLas amplicon molecules 
+B4-8,200 CLas amplicon molecules 
+"B9-12, C1",20 CLas amplicon molecules 
+C2-C6,200000 CLas amplicon molecules +MDH
+C7-C11,20000 CLas amplicon molecules
+"C12, D1-D4",2000 CLas amplicon molecules 
+D5-D9,200 CLas amplicon molecules 
+"D10-12, E1,2",20 CLas amplicon molecules 
+E3-E7,200000 CLas amplicon molecules +COX
+E8-E12,20000 CLas amplicon molecules
+F1-F5,2000 CLas amplicon molecules 
+F6-F10,200 CLas amplicon molecules 
+"F11, F12 G1-G3",20 CLas amplicon molecules 
+G4-G8,HLB+ citrus extract
+"G9-G12, H1",HLB+ citrus extract +MDH
+H2-H6,HLB+extract +COX

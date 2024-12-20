@@ -102,15 +102,12 @@ Natural PCR plate ,Bio Rad low profile unskirted natural 96 well plate, cat# MLL
 natural PCR plate lot,B001339830,,
 ,,,
 "Volumetric glassware used to perpare stocks of amplicon and internal standards",,,
-Volumetric glassware, Vendor/Manufacturer, cat#, Certification #
+Volumetric glassware, Vendor/Manufacturer, cat#, Certification/Batch #
 PYREX Class A 1000 mL volumetric flask, Fisher Scientific,10 211G, CP-04409
-Glassco Class A 250 mL volumetric flask,  , QR.134.234.08,,
-Batch number Glassco Class A 250 mL volumetric flask, 9.22,,
-Glassco Class A 50 mL volumetric pipette cat. #,123.4P5.07,,
-batch number Glassco Clas A 50 mL volumetric pipette,9.22,,
-Glassco Class A 25 mL volumetric pipette cat. #,123.4Pl5.06,,
-Batch number Glassco Class A 25 mL volumetric pipette cat. #,5.22,,
-kimble  Class A 5 mL volumetric pipette cat. #,37002-5,,
+Glassco Class A 250 mL volumetric flask, Glassco, QR.134.234.08, 9.22
+Glassco Class A 50 mL volumetric pipette, Glassco, 123.4P5.07, 9.22
+Glassco Class A 25 mL volumetric pipette, Glassco,123.4Pl5.06, 5.22
+KIMAX Class A 5 mL volumetric pipette, VWR, 37002-5,
 ,,,
 ddPCR reagents and consumables  ,,,
 All ddPCR reagents and consumables maufactured by BioRad Laboratories ,,,
